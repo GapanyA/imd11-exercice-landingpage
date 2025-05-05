@@ -88,6 +88,7 @@ h2 {
 .cardgroup {
   display: flex;
   flex-direction: row;
+  justify-content: center;
   gap: 4vw;
 }
 .card {
