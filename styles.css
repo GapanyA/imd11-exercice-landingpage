@@ -7,7 +7,7 @@ body {
 }
 
 header {
-  background-image: url("/bckgrd.png");
+  background-image: url("bckgrd.png");
   background-size: cover;
   background-repeat: no-repeat;
   height: 110vh;
@@ -128,7 +128,7 @@ footer {
   flex-direction: column;
 }
 form {
-  background-image: url("/Capture\ d’écran\ 2025-04-07\ à\ 11.14.55\ 1.png");
+  background-image: url("Capture\ d’écran\ 2025-04-07\ à\ 11.14.55\ 1.png");
   background-size: 100%;
   background-repeat: no-repeat;
   width: 80vw;
